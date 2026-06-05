@@ -1,4 +1,4 @@
-# 🧠 Intelligent Sentiment Analysis
+# 🧠 MoodLens - Intelligent Sentiment Analysis
 ### *Uncover emotions, gain insights & receive actionable AI suggestions in seconds.*
 
 > An AI-powered sentiment analysis web application that analyzes text, detects emotions, rates feedback, and provides smart strategic suggestions — all in real time using **LangChain**, **HuggingFace**, and **Streamlit**.
